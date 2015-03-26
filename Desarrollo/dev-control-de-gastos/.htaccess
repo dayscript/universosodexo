@@ -1,0 +1,6 @@
+location / {
+  rewrite ^/$ /         index.php       break;
+  if ($request_filename ~         !-f){
+    rewrite ^(.*)$ /       index.php?page=$1   break;
+  }
+}

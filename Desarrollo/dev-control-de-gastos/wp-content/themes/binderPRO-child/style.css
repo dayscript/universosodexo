@@ -1,0 +1,30 @@
+/*
+ Theme Name: Binder PRO Child
+ Theme URI: http://demos.quadroideas.com/binderpro/
+ Author: QuadroIdeas
+ Author URI: http://quadroideas.com/
+ Description: A personal WordPress theme to share your ideas with the world.
+ Template: binderpro
+ Version: 1.0.0
+ Text Domain: quadro
+*/
+
+/**
+ * You can comment the following line to avoid loading the parent theme's CSS file
+ * before loading this one. Otherwise, keep in mind that all original styles from
+ * the parent theme will be loaded before whatever you declare here. 
+ */
+@import url("../binderpro/style.css");
+@import url("../binderPRO-child/Modal.css");
+
+/* Theme customization starts here
+-------------------------------------------------------------- */
+
+// Your new CSS rules...
+
+.textwidget {
+font-family: 'open sans';
+font-style: oblique;
+text-align: center;
+}
+

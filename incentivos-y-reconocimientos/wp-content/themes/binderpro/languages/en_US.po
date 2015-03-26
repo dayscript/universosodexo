@@ -1,0 +1,2993 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Binder Pro v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-22 04:02:13+0000\n"
+"Last-Translator: QuadroIdeas\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:36
+#, php-format
+#@ quadro
+msgid "Posts by: %s"
+msgstr ""
+
+#: archive.php:39
+#, php-format
+#@ quadro
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:42
+#, php-format
+#@ quadro
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:42
+#@ quadro
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:45
+#, php-format
+#@ quadro
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:45
+#@ quadro
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:48
+#@ quadro
+msgid "Asides"
+msgstr ""
+
+#: archive.php:51
+#@ quadro
+msgid "Galleries"
+msgstr ""
+
+#: archive.php:54
+#@ quadro
+msgid "Images"
+msgstr ""
+
+#: archive.php:57
+#@ quadro
+msgid "Videos"
+msgstr ""
+
+#: archive.php:60
+#@ quadro
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:63
+#: inc/options-definition.php:748
+#@ quadro
+msgid "Links"
+msgstr ""
+
+#: archive.php:66
+#@ quadro
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:69
+#@ quadro
+msgid "Audios"
+msgstr ""
+
+#: archive.php:72
+#@ quadro
+msgid "Chats"
+msgstr ""
+
+#: archive.php:75
+#@ quadro
+msgid "Archives"
+msgstr ""
+
+#: comments.php:30
+#, php-format
+#@ quadro
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+#@ quadro
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50
+#@ quadro
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:51
+#@ quadro
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:61
+#@ quadro
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:66
+#@ quadro
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:67
+#, php-format
+#@ quadro
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: content-classic.php:31
+#: content-classic.php:68
+#: content-single.php:26
+#: content-single.php:64
+#: content-teasers.php:98
+#: content.php:114
+#: inc/qi-framework/template-tags.php:332
+#: inc/qi-framework/template-tags.php:335
+#: inc/qi-framework/template-tags.php:375
+#: module-carousel.php:117
+#: module-featured.php:118
+#: module-flashnews.php:62
+#: module-magazine.php:122
+#: module-slider.php:139
+#@ quadro
+msgid ", "
+msgstr ""
+
+#: content-classic.php:33
+#: content-single.php:28
+#, php-format
+#@ quadro
+msgid "<p class=\"cat-links\">In %1$s.</p>"
+msgstr ""
+
+#: content-classic.php:58
+#: content-page.php:33
+#: content-single.php:53
+#@ quadro
+msgid "Pages:"
+msgstr ""
+
+#: content-classic.php:71
+#: content-single.php:67
+#, php-format
+#@ quadro
+msgid "<p class=\"single-tags\">Tagged %1$s.</p>"
+msgstr ""
+
+#: content-classic.php:83
+#: content-page.php:38
+#: content-single.php:79
+#: inc/qi-framework/template-tags.php:134
+#: inc/qi-framework/template-tags.php:153
+#: inc/qi-framework/template-tags.php:407
+#: inc/qi-framework/template-tags.php:426
+#@ quadro
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:12
+#@ quadro
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+#@ quadro
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+#@ quadro
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-none.php:28
+#@ quadro
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-teasers.php:112
+#: content-teasers.php:118
+#: content-teasers.php:127
+#: content-teasers.php:132
+#: content-teasers.php:136
+#: content.php:63
+#: content.php:77
+#: content.php:81
+#: content.php:132
+#: content.php:139
+#: content.php:149
+#: content.php:156
+#: content.php:160
+#: inc/theme-functions.php:65
+#: module-carousel.php:124
+#: module-display.php:119
+#: module-featured.php:127
+#: module-featured.php:128
+#: module-featured.php:131
+#: module-featured.php:133
+#: module-slider.php:150
+#: module-videoposts.php:78
+#@ quadro
+msgid "Read more"
+msgstr ""
+
+#: functions.php:53
+#@ quadro
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:128
+#@ quadro
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:139
+#@ quadro
+msgid "Header Widgets"
+msgstr ""
+
+#: functions.php:319
+#@ quadro
+msgid "We are very happy you decided to use BINDER PRO on this site. Here are a couple of useful tips to get you started."
+msgstr ""
+
+#: functions.php:320
+#@ quadro
+msgid "The documentation for the theme you downloaded has lots of helpful sections, including a nice <strong>Getting Started</strong> with step by step descriptions on how to start working with your theme. <a href=\"http://quadroideas.com/docs/BinderPro_Documentation.html\">You can find it here.</a>"
+msgstr ""
+
+#: functions.php:321
+#@ quadro
+msgid "We update the theme from time to time to keep making it even better. <a href=\"http://twitter.com/quadroIdeas\">Follow us on witter</a> to get notified about updates as soon as they see the web-light."
+msgstr ""
+
+#: functions.php:322
+#@ quadro
+msgid "Should you need help with the theme and you can't find the answer on the documentation file, we'll be ready to cover you on our <a href=\"http://quadroideas.com/support/theme/binderpro-wp-theme\">Support Forum</a>."
+msgstr ""
+
+#: functions.php:323
+#@ quadro
+msgid "Also, we tend to publish cool posts on maximizing the use of our themes, with clever implementations and extra customization tips. <a href=\"http://quadroideas.com/blog\">Read them here</a>."
+msgstr ""
+
+#: functions.php:324
+#@ quadro
+msgid "(This welcome message will be gone after you refresh the page or navigate to another one. <a href=\"#\" class=\"welc-msg-dismiss\">Dismiss now &raquo;</a>)"
+msgstr ""
+
+#: header.php:49
+#@ quadro
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:52
+#@ quadro
+msgid "Search..."
+msgstr ""
+
+#: inc/custom-fields-definition.php:36
+#@ quadro
+msgid "Post Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:42
+#@ quadro
+msgid "Post Background Color"
+msgstr ""
+
+#: inc/custom-fields-definition.php:53
+#@ quadro
+msgid "Page Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:59
+#: inc/custom-fields-definition.php:293
+#@ quadro
+msgid "Select Sidebar"
+msgstr ""
+
+#: inc/custom-fields-definition.php:64
+#@ quadro
+msgid "Breadcrumbs on this page"
+msgstr ""
+
+#: inc/custom-fields-definition.php:68
+#: inc/custom-fields-definition.php:571
+#: inc/custom-fields-definition.php:695
+#: inc/custom-fields-definition.php:705
+#: inc/custom-fields-definition.php:715
+#: inc/custom-fields-definition.php:855
+#: inc/custom-fields-definition.php:866
+#: inc/custom-fields-definition.php:876
+#: inc/custom-fields-definition.php:922
+#: inc/custom-fields-definition.php:932
+#: inc/custom-fields-definition.php:1059
+#: inc/options-definition.php:148
+#: inc/options-definition.php:425
+#: inc/options-definition.php:466
+#: inc/options-definition.php:485
+#: inc/options-definition.php:504
+#: inc/options-definition.php:561
+#: inc/options-definition.php:610
+#@ quadro
+msgid "Show"
+msgstr ""
+
+#: inc/custom-fields-definition.php:69
+#: inc/custom-fields-definition.php:572
+#: inc/custom-fields-definition.php:696
+#: inc/custom-fields-definition.php:706
+#: inc/custom-fields-definition.php:716
+#: inc/custom-fields-definition.php:856
+#: inc/custom-fields-definition.php:867
+#: inc/custom-fields-definition.php:877
+#: inc/custom-fields-definition.php:923
+#: inc/custom-fields-definition.php:933
+#: inc/custom-fields-definition.php:1060
+#: inc/options-definition.php:152
+#: inc/options-definition.php:429
+#: inc/options-definition.php:470
+#: inc/options-definition.php:489
+#: inc/options-definition.php:508
+#: inc/options-definition.php:565
+#: inc/options-definition.php:614
+#@ quadro
+msgid "Hide"
+msgstr ""
+
+#: inc/custom-fields-definition.php:74
+#@ quadro
+msgid "Title color"
+msgstr ""
+
+#: inc/custom-fields-definition.php:80
+#@ quadro
+msgid "Header Back color"
+msgstr ""
+
+#: inc/custom-fields-definition.php:86
+#@ quadro
+msgid "Use Picture as Header Back (uses Feat. Image)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:91
+#@ quadro
+msgid "Display Tagline"
+msgstr ""
+
+#: inc/custom-fields-definition.php:96
+#@ quadro
+msgid "Tagline text"
+msgstr ""
+
+#: inc/custom-fields-definition.php:103
+#@ quadro
+msgid "Use Picture as Page Back"
+msgstr ""
+
+#: inc/custom-fields-definition.php:108
+#@ quadro
+msgid "Background for this Page"
+msgstr ""
+
+#: inc/custom-fields-definition.php:118
+#@ quadro
+msgid "Blog Template Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:124
+#: inc/custom-fields-definition.php:193
+#@ quadro
+msgid "Hide Page Header (homepage use, for example)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:129
+#@ quadro
+msgid "Choose Blog Modules to Show"
+msgstr ""
+
+#: inc/custom-fields-definition.php:143
+#@ quadro
+msgid "Landing Page Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:149
+#@ quadro
+msgid "Hide Page Header"
+msgstr ""
+
+#: inc/custom-fields-definition.php:159
+#@ quadro
+msgid "Contact Template Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:165
+#@ quadro
+msgid "Google Map Address"
+msgstr ""
+
+#: inc/custom-fields-definition.php:168
+#@ quadro
+msgid "To display a map in the header, paste here the address you want the map to locate."
+msgstr ""
+
+#: inc/custom-fields-definition.php:171
+#: inc/custom-fields-definition.php:283
+#: inc/options-definition.php:398
+#@ quadro
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/custom-fields-definition.php:175
+#: inc/custom-fields-definition.php:287
+#: inc/custom-fields-definition.php:796
+#: inc/options-definition.php:408
+#@ quadro
+msgid "Right"
+msgstr ""
+
+#: inc/custom-fields-definition.php:176
+#: inc/custom-fields-definition.php:288
+#: inc/custom-fields-definition.php:795
+#: inc/options-definition.php:403
+#@ quadro
+msgid "Left"
+msgstr ""
+
+#: inc/custom-fields-definition.php:177
+#@ quadro
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/custom-fields-definition.php:187
+#@ quadro
+msgid "Modular Template Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:198
+#: inc/custom-fields-definition.php:298
+#@ quadro
+msgid "Choose Modules to Show"
+msgstr ""
+
+#: inc/custom-fields-definition.php:211
+#@ quadro
+msgid "Module Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:217
+#@ quadro
+msgid "Show title for this module?"
+msgstr ""
+
+#: inc/custom-fields-definition.php:222
+#@ quadro
+msgid "Title background color"
+msgstr ""
+
+#: inc/custom-fields-definition.php:229
+#@ quadro
+msgid "Background color"
+msgstr ""
+
+#: inc/custom-fields-definition.php:235
+#@ quadro
+msgid "Background pattern"
+msgstr ""
+
+#: inc/custom-fields-definition.php:240
+#@ quadro
+msgid "Use Picture as Background"
+msgstr ""
+
+#: inc/custom-fields-definition.php:245
+#@ quadro
+msgid "Background for this module"
+msgstr ""
+
+#: inc/custom-fields-definition.php:250
+#@ quadro
+msgid "Parallax Background"
+msgstr ""
+
+#: inc/custom-fields-definition.php:260
+#: inc/custom-post-types.php:59
+#@ quadro
+msgid "Module Type"
+msgstr ""
+
+#: inc/custom-fields-definition.php:266
+#@ quadro
+msgid "Select Module Type"
+msgstr ""
+
+#: inc/custom-fields-definition.php:277
+#@ quadro
+msgid "Wrapper Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:312
+#@ quadro
+msgid "Carousel Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:318
+#: inc/custom-fields-definition.php:416
+#: inc/custom-fields-definition.php:882
+#@ quadro
+msgid "Margins (make full width)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:322
+#: inc/custom-fields-definition.php:420
+#: inc/custom-fields-definition.php:886
+#: inc/custom-fields-definition.php:1025
+#: inc/options-definition.php:311
+#@ quadro
+msgid "With Margins"
+msgstr ""
+
+#: inc/custom-fields-definition.php:323
+#: inc/custom-fields-definition.php:421
+#: inc/custom-fields-definition.php:887
+#: inc/custom-fields-definition.php:1024
+#: inc/options-definition.php:307
+#@ quadro
+msgid "Without Margins"
+msgstr ""
+
+#: inc/custom-fields-definition.php:328
+#: inc/custom-fields-definition.php:467
+#: inc/custom-fields-definition.php:560
+#: inc/custom-fields-definition.php:732
+#: inc/custom-fields-definition.php:845
+#: inc/custom-fields-definition.php:949
+#@ quadro
+msgid "How many posts to show?"
+msgstr ""
+
+#: inc/custom-fields-definition.php:332
+#: inc/custom-fields-definition.php:471
+#: inc/custom-fields-definition.php:736
+#: inc/custom-fields-definition.php:953
+#@ quadro
+msgid "Enter -1 to show all posts."
+msgstr ""
+
+#: inc/custom-fields-definition.php:335
+#: inc/custom-fields-definition.php:426
+#: inc/custom-fields-definition.php:474
+#: inc/custom-fields-definition.php:583
+#: inc/custom-fields-definition.php:651
+#: inc/custom-fields-definition.php:739
+#: inc/custom-fields-definition.php:815
+#: inc/custom-fields-definition.php:903
+#: inc/custom-fields-definition.php:956
+#: inc/custom-fields-definition.php:1066
+#@ quadro
+msgid "What to show?"
+msgstr ""
+
+#: inc/custom-fields-definition.php:339
+#: inc/custom-fields-definition.php:430
+#: inc/custom-fields-definition.php:478
+#: inc/custom-fields-definition.php:743
+#: inc/custom-fields-definition.php:960
+#: inc/custom-fields-definition.php:1070
+#@ quadro
+msgid "All Posts"
+msgstr ""
+
+#: inc/custom-fields-definition.php:340
+#: inc/custom-fields-definition.php:431
+#: inc/custom-fields-definition.php:479
+#: inc/custom-fields-definition.php:588
+#: inc/custom-fields-definition.php:744
+#: inc/custom-fields-definition.php:961
+#: inc/custom-fields-definition.php:1071
+#@ quadro
+msgid "By Categories"
+msgstr ""
+
+#: inc/custom-fields-definition.php:341
+#: inc/custom-fields-definition.php:432
+#: inc/custom-fields-definition.php:480
+#: inc/custom-fields-definition.php:589
+#: inc/custom-fields-definition.php:1072
+#@ quadro
+msgid "By Post Format"
+msgstr ""
+
+#: inc/custom-fields-definition.php:342
+#: inc/custom-fields-definition.php:433
+#: inc/custom-fields-definition.php:481
+#: inc/custom-fields-definition.php:590
+#: inc/custom-fields-definition.php:655
+#: inc/custom-fields-definition.php:745
+#: inc/custom-fields-definition.php:819
+#: inc/custom-fields-definition.php:907
+#: inc/custom-fields-definition.php:962
+#: inc/custom-fields-definition.php:1073
+#@ quadro
+msgid "Custom Selection"
+msgstr ""
+
+#: inc/custom-fields-definition.php:347
+#: inc/custom-fields-definition.php:438
+#: inc/custom-fields-definition.php:486
+#: inc/custom-fields-definition.php:595
+#: inc/custom-fields-definition.php:663
+#: inc/custom-fields-definition.php:750
+#: inc/custom-fields-definition.php:827
+#: inc/custom-fields-definition.php:967
+#: inc/custom-fields-definition.php:1078
+#@ quadro
+msgid "Choose Categories to Show"
+msgstr ""
+
+#: inc/custom-fields-definition.php:353
+#: inc/custom-fields-definition.php:444
+#: inc/custom-fields-definition.php:492
+#: inc/custom-fields-definition.php:601
+#: inc/custom-fields-definition.php:669
+#: inc/custom-fields-definition.php:833
+#: inc/custom-fields-definition.php:1084
+#@ quadro
+msgid "Choose Post Formats to Show"
+msgstr ""
+
+#: inc/custom-fields-definition.php:358
+#: inc/custom-fields-definition.php:449
+#: inc/custom-fields-definition.php:497
+#: inc/custom-fields-definition.php:606
+#: inc/custom-fields-definition.php:756
+#: inc/custom-fields-definition.php:838
+#: inc/custom-fields-definition.php:973
+#: inc/custom-fields-definition.php:1089
+#@ quadro
+msgid "Choose Posts to Show"
+msgstr ""
+
+#: inc/custom-fields-definition.php:370
+#@ quadro
+msgid "Display Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:376
+#@ quadro
+msgid "Display Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:383
+#: inc/custom-fields-definition.php:522
+#@ quadro
+msgid "Layout 1"
+msgstr ""
+
+#: inc/custom-fields-definition.php:389
+#: inc/custom-fields-definition.php:528
+#@ quadro
+msgid "Layout 2"
+msgstr ""
+
+#: inc/custom-fields-definition.php:395
+#: inc/custom-fields-definition.php:534
+#@ quadro
+msgid "Layout 3"
+msgstr ""
+
+#: inc/custom-fields-definition.php:401
+#: inc/custom-fields-definition.php:540
+#@ quadro
+msgid "Layout 4"
+msgstr ""
+
+#: inc/custom-fields-definition.php:407
+#@ quadro
+msgid "Layout 5"
+msgstr ""
+
+#: inc/custom-fields-definition.php:412
+#@ quadro
+msgid "To use layouts 1 or 3 <strong>large thumbnail</strong> size must be set on WordPress defaults of 1024 by 1024 pixels."
+msgstr ""
+
+#: inc/custom-fields-definition.php:461
+#@ quadro
+msgid "Flash News Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:509
+#@ quadro
+msgid "Magazine Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:515
+#@ quadro
+msgid "Magazine Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:549
+#: inc/custom-fields-definition.php:1009
+#@ quadro
+msgid "Columns"
+msgstr ""
+
+#: inc/custom-fields-definition.php:553
+#: inc/custom-fields-definition.php:1014
+#: inc/options-definition.php:292
+#@ quadro
+msgid "Two"
+msgstr ""
+
+#: inc/custom-fields-definition.php:554
+#: inc/custom-fields-definition.php:1013
+#: inc/options-definition.php:288
+#@ quadro
+msgid "Three"
+msgstr ""
+
+#: inc/custom-fields-definition.php:556
+#@ quadro
+msgid "Applies only for layouts 2 and 4."
+msgstr ""
+
+#: inc/custom-fields-definition.php:564
+#@ quadro
+msgid "Applies only for layout 4. Enter -1 to show all posts."
+msgstr ""
+
+#: inc/custom-fields-definition.php:567
+#@ quadro
+msgid "Excerpt"
+msgstr ""
+
+#: inc/custom-fields-definition.php:574
+#@ quadro
+msgid "Applies only for layout 4."
+msgstr ""
+
+#: inc/custom-fields-definition.php:578
+#@ quadro
+msgid "Exclude Posts Without Thumbnail?"
+msgstr ""
+
+#: inc/custom-fields-definition.php:587
+#@ quadro
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/custom-fields-definition.php:618
+#@ quadro
+msgid "Slogan Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:624
+#@ quadro
+msgid "Call to Action Text"
+msgstr ""
+
+#: inc/custom-fields-definition.php:629
+#@ quadro
+msgid "Call to Action Link"
+msgstr ""
+
+#: inc/custom-fields-definition.php:634
+#@ quadro
+msgid "Call to Action Color"
+msgstr ""
+
+#: inc/custom-fields-definition.php:645
+#@ quadro
+msgid "Featured Post Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:656
+#@ quadro
+msgid "Last post (from all posts)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:657
+#@ quadro
+msgid "Last post By Categories"
+msgstr ""
+
+#: inc/custom-fields-definition.php:658
+#@ quadro
+msgid "Last post By Post Format"
+msgstr ""
+
+#: inc/custom-fields-definition.php:674
+#@ quadro
+msgid "Choose Post to Show"
+msgstr ""
+
+#: inc/custom-fields-definition.php:680
+#@ quadro
+msgid "Select Featured Post Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:684
+#@ quadro
+msgid "Content on right side"
+msgstr ""
+
+#: inc/custom-fields-definition.php:685
+#@ quadro
+msgid "Content on left side"
+msgstr ""
+
+#: inc/custom-fields-definition.php:687
+#@ quadro
+msgid "Note: To display featured posts <strong>large thumbnail</strong> size must be set on WordPress defaults of 1024 by 1024 pixels."
+msgstr ""
+
+#: inc/custom-fields-definition.php:691
+#: inc/custom-fields-definition.php:851
+#@ quadro
+msgid "Post Icon"
+msgstr ""
+
+#: inc/custom-fields-definition.php:701
+#: inc/custom-fields-definition.php:862
+#@ quadro
+msgid "Post Date"
+msgstr ""
+
+#: inc/custom-fields-definition.php:711
+#: inc/custom-fields-definition.php:872
+#@ quadro
+msgid "Post Categories"
+msgstr ""
+
+#: inc/custom-fields-definition.php:726
+#@ quadro
+msgid "Video Posts Slider Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:764
+#: inc/custom-fields-definition.php:981
+#@ quadro
+msgid "Text Color (optional)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:775
+#@ quadro
+msgid "Slider Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:781
+#@ quadro
+msgid "Select Caption Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:785
+#@ quadro
+msgid "Big Caption"
+msgstr ""
+
+#: inc/custom-fields-definition.php:786
+#@ quadro
+msgid "Striped Caption"
+msgstr ""
+
+#: inc/custom-fields-definition.php:791
+#@ quadro
+msgid "Select Caption Position"
+msgstr ""
+
+#: inc/custom-fields-definition.php:797
+#@ quadro
+msgid "Left & Right (alternated)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:802
+#@ quadro
+msgid "Transition Timer (in millisecs.)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:805
+#@ quadro
+msgid "Enter <strong>stop</strong> to disable autorun."
+msgstr ""
+
+#: inc/custom-fields-definition.php:808
+#@ quadro
+msgid "Override Post Background Color (optional)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:811
+#@ quadro
+msgid "Leave empty to use original post background."
+msgstr ""
+
+#: inc/custom-fields-definition.php:820
+#@ quadro
+msgid "Latest posts (from all posts)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:821
+#@ quadro
+msgid "Latest posts By Categories"
+msgstr ""
+
+#: inc/custom-fields-definition.php:822
+#@ quadro
+msgid "Latest posts By Post Format"
+msgstr ""
+
+#: inc/custom-fields-definition.php:858
+#@ quadro
+msgid "Only available for Big Caption style."
+msgstr ""
+
+#: inc/custom-fields-definition.php:897
+#@ quadro
+msgid "Authors Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:908
+#@ quadro
+msgid "All Authors"
+msgstr ""
+
+#: inc/custom-fields-definition.php:913
+#@ quadro
+msgid "Choose Authors to Show"
+msgstr ""
+
+#: inc/custom-fields-definition.php:918
+#@ quadro
+msgid "Users Bio"
+msgstr ""
+
+#: inc/custom-fields-definition.php:928
+#@ quadro
+msgid "Users Web & Social Profiles"
+msgstr ""
+
+#: inc/custom-fields-definition.php:943
+#@ quadro
+msgid "Quote Posts Slider Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:992
+#@ quadro
+msgid "Blog Module Options"
+msgstr ""
+
+#: inc/custom-fields-definition.php:998
+#: inc/options-definition.php:260
+#@ quadro
+msgid "Blog Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1002
+#@ quadro
+msgid "Masonry Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1003
+#@ quadro
+msgid "Classic Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1004
+#@ quadro
+msgid "Teasers Style"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1017
+#: inc/custom-fields-definition.php:1028
+#: inc/custom-fields-definition.php:1046
+#@ quadro
+msgid "(Available in Masonry Blog Style)"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1020
+#@ quadro
+msgid "Margins"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1031
+#: inc/options-definition.php:321
+#@ quadro
+msgid "Posts Loading Animation"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1035
+#: inc/options-definition.php:326
+#: inc/qi-framework/custom-fields-functions.php:288
+#: inc/qi-framework/options.php:296
+#@ quadro
+msgid "None"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1036
+#: inc/options-definition.php:330
+#@ quadro
+msgid "Type 1"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1037
+#: inc/options-definition.php:334
+#@ quadro
+msgid "Type 2"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1038
+#: inc/options-definition.php:338
+#@ quadro
+msgid "Type 3"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1039
+#: inc/options-definition.php:342
+#@ quadro
+msgid "Type 4"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1040
+#: inc/options-definition.php:346
+#@ quadro
+msgid "Type 5"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1041
+#: inc/options-definition.php:350
+#@ quadro
+msgid "Type 6"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1042
+#: inc/options-definition.php:354
+#@ quadro
+msgid "Type 7"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1043
+#: inc/options-definition.php:358
+#@ quadro
+msgid "Type 8"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1049
+#@ quadro
+msgid "Posts per page"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1052
+#@ quadro
+msgid "Enter -1 to show all posts in one page or leave empty to use WordPress general setting in Settings >> Reading."
+msgstr ""
+
+#: inc/custom-fields-definition.php:1055
+#@ quadro
+msgid "Navigation"
+msgstr ""
+
+#: inc/custom-fields-definition.php:1062
+#@ quadro
+msgid "Keep in mind that navigation will always navigate all posts regardless of your custom selection at this screen."
+msgstr ""
+
+#: inc/custom-post-types.php:29
+#@ quadro
+msgid "Modules"
+msgstr ""
+
+#: inc/custom-post-types.php:30
+#: inc/custom-post-types.php:58
+#@ quadro
+msgid "Module"
+msgstr ""
+
+#: inc/custom-post-types.php:31
+#@ quadro
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-post-types.php:32
+#@ quadro
+msgid "Add New Module"
+msgstr ""
+
+#: inc/custom-post-types.php:33
+#@ quadro
+msgid "Edit Module"
+msgstr ""
+
+#: inc/custom-post-types.php:34
+#@ quadro
+msgid "New Module"
+msgstr ""
+
+#: inc/custom-post-types.php:35
+#@ quadro
+msgid "All Modules"
+msgstr ""
+
+#: inc/custom-post-types.php:36
+#@ quadro
+msgid "View Module"
+msgstr ""
+
+#: inc/custom-post-types.php:37
+#@ quadro
+msgid "Search Modules"
+msgstr ""
+
+#: inc/custom-post-types.php:38
+#@ quadro
+msgid "No Module found"
+msgstr ""
+
+#: inc/custom-post-types.php:39
+#@ quadro
+msgid "No Module found in Trash"
+msgstr ""
+
+#: inc/custom-post-types.php:60
+#@ quadro
+msgid "Date"
+msgstr ""
+
+#: inc/custom-post-types.php:85
+#@ quadro
+msgid "All Module Types"
+msgstr ""
+
+#: inc/options-definition.php:26
+#@ quadro
+msgid "Logo Type"
+msgstr ""
+
+#: inc/options-definition.php:31
+#@ quadro
+msgid "Gravatar + Title"
+msgstr ""
+
+#: inc/options-definition.php:35
+#@ quadro
+msgid "Logo Image"
+msgstr ""
+
+#: inc/options-definition.php:39
+#@ quadro
+msgid "Only Title"
+msgstr ""
+
+#: inc/options-definition.php:49
+#@ quadro
+msgid "Logo Image File"
+msgstr ""
+
+#: inc/options-definition.php:51
+#@ quadro
+msgid "Note: Logo img should be 60px height minimum. Keep in mind that that is the maximum height the logo will have and the theme will resize it proportionally to fit into that."
+msgstr ""
+
+#: inc/options-definition.php:58
+#@ quadro
+msgid "Logo Image File for Retina"
+msgstr ""
+
+#: inc/options-definition.php:60
+#: inc/options-definition.php:97
+#@ quadro
+msgid "Twice as bigger, for retina screens"
+msgstr ""
+
+#: inc/options-definition.php:67
+#@ quadro
+msgid "About Text"
+msgstr ""
+
+#: inc/options-definition.php:70
+#@ quadro
+msgid "This will appear under your logo/name on the site's header."
+msgstr ""
+
+#: inc/options-definition.php:77
+#@ quadro
+msgid "Favicon Image File"
+msgstr ""
+
+#: inc/options-definition.php:86
+#@ quadro
+msgid "Custom Login Image File"
+msgstr ""
+
+#: inc/options-definition.php:95
+#@ quadro
+msgid "Custom Login Image File for Retina"
+msgstr ""
+
+#: inc/options-definition.php:105
+#@ quadro
+msgid "404 Page Title"
+msgstr ""
+
+#: inc/options-definition.php:115
+#@ quadro
+msgid "404 Page Text"
+msgstr ""
+
+#: inc/options-definition.php:125
+#@ quadro
+msgid "Google Maps Enable"
+msgstr ""
+
+#: inc/options-definition.php:127
+#@ quadro
+msgid "Disabling Google Maps scripts if you are not using it can sometimes help with loading times."
+msgstr ""
+
+#: inc/options-definition.php:134
+#@ quadro
+msgid "Retina Support Enable"
+msgstr ""
+
+#: inc/options-definition.php:136
+#@ quadro
+msgid "Only disable Retina Support if you want to avoid extra time dedication when uploading images to the site. Keep in mind that any image you may upload when Retina Support is disabled wont get cropped accordingly."
+msgstr ""
+
+#: inc/options-definition.php:143
+#@ quadro
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/options-definition.php:162
+#@ quadro
+msgid "Breadcrumbs Prefix"
+msgstr ""
+
+#: inc/options-definition.php:165
+#@ quadro
+msgid "Optional text for breadcrumbs. Ex: \"You are here:\""
+msgstr ""
+
+#: inc/options-definition.php:172
+#@ quadro
+msgid "Back-to-top Enable"
+msgstr ""
+
+#: inc/options-definition.php:182
+#@ quadro
+msgid "Demo Content Import"
+msgstr ""
+
+#: inc/options-definition.php:184
+#@ quadro
+msgid "<br />Click \"Import Dummy Content\" to import most pages, posts, menus and theme settings to your WordPress install. <strong>Please be aware that this process will override your current content & options in lots of ways. It is advisable that you do this only on installs with no previous content.</strong> Note: If you will be using WooCommerce plugin, please install it before doing the import, and let it create its pages. Importing its dummy content too will gladly help your demo content look amazing. ;)<br />Note: Keep in mind that in order to keep your host resources safe we are not importing images, but referencing them. Because of that, you will not see the actual images being cropped until you re-upload them.<br />* If you receive a success message but don't see any content imported **and** you had the WordPress Importer plugin activated, give this a second run, the Importer will have used the first one to deactivate the plugin to enable this action."
+msgstr ""
+
+#: inc/options-definition.php:192
+#: inc/qi-framework/options-helper.php:512
+#@ quadro
+msgid "Backup Options"
+msgstr ""
+
+#: inc/options-definition.php:202
+#@ quadro
+msgid "Export Options"
+msgstr ""
+
+#: inc/options-definition.php:204
+#@ quadro
+msgid "You can transfer your theme settings between different installs by copying the text inside this text box. To import data from another install, replace the data in the text box with the one from another install and click \"Import Options\"."
+msgstr ""
+
+#: inc/options-definition.php:213
+#@ quadro
+msgid "Enable Updates"
+msgstr ""
+
+#: inc/options-definition.php:215
+#@ quadro
+msgid "Keep this checked if you want to be able to update your theme from the WordPress themes screen and get notified about new versions as they come out."
+msgstr ""
+
+#: inc/options-definition.php:223
+#@ quadro
+msgid "QuadroIdeas.com Username"
+msgstr ""
+
+#: inc/options-definition.php:226
+#@ quadro
+msgid "Don't have a QuadroIdeas.com user? Get yours <a href=\"http://quadroideas.com\" target=\"_blank\">here</a>. <strong>Note: If you already have a username, you may need to login and register your theme before being able to update.</strong>"
+msgstr ""
+
+#: inc/options-definition.php:234
+#@ quadro
+msgid "QuadroIdeas.com Password"
+msgstr ""
+
+#: inc/options-definition.php:245
+#@ quadro
+msgid "Verify User"
+msgstr ""
+
+#: inc/options-definition.php:248
+#@ quadro
+msgid "This step is not required. You can use it to verify you have entered your credentials correctly. <br /><strong>Once you enter your details, click \"Save Settings\" before checking.</strong>"
+msgstr ""
+
+#: inc/options-definition.php:265
+#@ quadro
+msgid "Masonry"
+msgstr ""
+
+#: inc/options-definition.php:269
+#@ quadro
+msgid "Classic"
+msgstr ""
+
+#: inc/options-definition.php:273
+#@ quadro
+msgid "Teasers"
+msgstr ""
+
+#: inc/options-definition.php:276
+#@ quadro
+msgid "This setting applies to all multiple-posts layouts (blog, archives, search results, etc.)"
+msgstr ""
+
+#: inc/options-definition.php:283
+#@ quadro
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/options-definition.php:295
+#: inc/options-definition.php:314
+#@ quadro
+msgid "This setting applies to all multiple-posts masonry layouts (blog, archives, search results, etc.)"
+msgstr ""
+
+#: inc/options-definition.php:302
+#@ quadro
+msgid "Masonry Margins"
+msgstr ""
+
+#: inc/options-definition.php:361
+#@ quadro
+msgid "This setting applies to all multiple-posts masonry layouts (blog, archives, search results, etc.). Available in Masonry Blog Style."
+msgstr ""
+
+#: inc/options-definition.php:368
+#@ quadro
+msgid "Show Sidebar for Blog & Archives"
+msgstr ""
+
+#: inc/options-definition.php:378
+#@ quadro
+msgid "Syle"
+msgstr ""
+
+#: inc/options-definition.php:383
+#@ quadro
+msgid "With Sidebar"
+msgstr ""
+
+#: inc/options-definition.php:387
+#@ quadro
+msgid "Full Width"
+msgstr ""
+
+#: inc/options-definition.php:420
+#@ quadro
+msgid "Author Box at End of Article"
+msgstr ""
+
+#: inc/options-definition.php:440
+#@ quadro
+msgid "Header Style"
+msgstr ""
+
+#: inc/options-definition.php:445
+#@ quadro
+msgid "Side Header"
+msgstr ""
+
+#: inc/options-definition.php:446
+#@ quadro
+msgid "(Keep in mind that when using the Side Header the site will not use sidebars. You can, use some widgets on the header itself, thoug. Just keep an eye on them to maeke them fit nicely.)"
+msgstr ""
+
+#: inc/options-definition.php:450
+#@ quadro
+msgid "Fullwidth Header"
+msgstr ""
+
+#: inc/options-definition.php:451
+#@ quadro
+msgid "(This option will enable the use of sidebars along the site.)"
+msgstr ""
+
+#: inc/options-definition.php:454
+#@ quadro
+msgid "Select the layout to be used for the header."
+msgstr ""
+
+#: inc/options-definition.php:461
+#: inc/options-definition.php:605
+#@ quadro
+msgid "Social Icons (show/hide)"
+msgstr ""
+
+#: inc/options-definition.php:480
+#@ quadro
+msgid "Search Field in Menu (show/hide)"
+msgstr ""
+
+#: inc/options-definition.php:499
+#@ quadro
+msgid "Widgetized Area in Header (show/hide)"
+msgstr ""
+
+#: inc/options-definition.php:511
+#@ quadro
+msgid "Only available for Side Header type"
+msgstr ""
+
+#: inc/options-definition.php:519
+#@ quadro
+msgid "Background Color"
+msgstr ""
+
+#: inc/options-definition.php:528
+#@ quadro
+msgid "Text Color"
+msgstr ""
+
+#: inc/options-definition.php:537
+#@ quadro
+msgid "Links Color"
+msgstr ""
+
+#: inc/options-definition.php:546
+#@ quadro
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/options-definition.php:556
+#@ quadro
+msgid "Widgetized Footer (show/hide)"
+msgstr ""
+
+#: inc/options-definition.php:575
+#@ quadro
+msgid "Widgetized Footer Layout"
+msgstr ""
+
+#: inc/options-definition.php:625
+#@ quadro
+msgid "Manage Sidebars"
+msgstr ""
+
+#: inc/options-definition.php:630
+#@ quadro
+msgid "Sidebar Name"
+msgstr ""
+
+#: inc/options-definition.php:632
+#@ quadro
+msgid "The name will be shown at widgets page."
+msgstr ""
+
+#: inc/options-definition.php:636
+#@ quadro
+msgid "Sidebar Slug"
+msgstr ""
+
+#: inc/options-definition.php:638
+#@ quadro
+msgid "Internal use. Only lowercases, digits, \"-\" and \"_\" allowed."
+msgstr ""
+
+#: inc/options-definition.php:641
+#@ quadro
+msgid "Add new Sidebar"
+msgstr ""
+
+#: inc/options-definition.php:653
+#: inc/options-definition.php:990
+#: inc/options-definition.php:1019
+#@ quadro
+msgid "Color"
+msgstr ""
+
+#: inc/options-definition.php:662
+#@ quadro
+msgid "Pattern"
+msgstr ""
+
+#: inc/options-definition.php:673
+#@ quadro
+msgid "Custom Image"
+msgstr ""
+
+#: inc/options-definition.php:675
+#@ quadro
+msgid "Note: Uploading a custom background image will override any other background setting."
+msgstr ""
+
+#: inc/options-definition.php:711
+#@ quadro
+msgid "(Optional) Add :400 / :700 / :bold, etc."
+msgstr ""
+
+#: inc/options-definition.php:730
+#@ quadro
+msgid "(Optional) Add :400, 700 / :bold, etc."
+msgstr ""
+
+#: inc/options-definition.php:737
+#@ quadro
+msgid "Font Subset"
+msgstr ""
+
+#: inc/options-definition.php:740
+#@ quadro
+msgid "(Optional) Add :cyrillic / :greek / :cyrillic-ext / :greek-ext / :latin to enable font subsets. Only on supported Google Fonts. Multiple subsets should be separated by commas, using just one colon at the beginning."
+msgstr ""
+
+#: inc/options-definition.php:757
+#@ quadro
+msgid "Links Hover"
+msgstr ""
+
+#: inc/options-definition.php:771
+#@ quadro
+msgid "8 to 30 allowed."
+msgstr ""
+
+#: inc/options-definition.php:782
+#@ quadro
+msgid "12 to 60 allowed. Only for Gravatar + Title version."
+msgstr ""
+
+#: inc/options-definition.php:790
+#@ quadro
+msgid "Font Name"
+msgstr ""
+
+#: inc/options-definition.php:793
+#@ quadro
+msgid "Just for CSS use. No spaces, please. ;)"
+msgstr ""
+
+#: inc/options-definition.php:800
+#@ quadro
+msgid "Use Custom Font for Logo"
+msgstr ""
+
+#: inc/options-definition.php:809
+#@ quadro
+msgid "Use Custom Font for Headings"
+msgstr ""
+
+#: inc/options-definition.php:818
+#@ quadro
+msgid "Font Upload .eot"
+msgstr ""
+
+#: inc/options-definition.php:827
+#@ quadro
+msgid "Font Upload .woff"
+msgstr ""
+
+#: inc/options-definition.php:836
+#@ quadro
+msgid "Font Upload .ttf/.otf"
+msgstr ""
+
+#: inc/options-definition.php:845
+#@ quadro
+msgid "Font Upload .svg"
+msgstr ""
+
+#: inc/options-definition.php:859
+#@ quadro
+msgid "Dribbble Profile"
+msgstr ""
+
+#: inc/options-definition.php:862
+#@ quadro
+msgid "Dribbble Username"
+msgstr ""
+
+#: inc/options-definition.php:869
+#@ quadro
+msgid "Facebook Profile"
+msgstr ""
+
+#: inc/options-definition.php:872
+#@ quadro
+msgid "Facebook Username"
+msgstr ""
+
+#: inc/options-definition.php:879
+#@ quadro
+msgid "Flickr Profile"
+msgstr ""
+
+#: inc/options-definition.php:882
+#@ quadro
+msgid "Flickr Username"
+msgstr ""
+
+#: inc/options-definition.php:889
+#@ quadro
+msgid "GitHub Profile"
+msgstr ""
+
+#: inc/options-definition.php:892
+#@ quadro
+msgid "GitHub Username"
+msgstr ""
+
+#: inc/options-definition.php:899
+#@ quadro
+msgid "Google+ Profile"
+msgstr ""
+
+#: inc/options-definition.php:902
+#@ quadro
+msgid "Google+ Username"
+msgstr ""
+
+#: inc/options-definition.php:909
+#@ quadro
+msgid "Instagram Profile"
+msgstr ""
+
+#: inc/options-definition.php:912
+#@ quadro
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/options-definition.php:919
+#@ quadro
+msgid "Linked-In Profile"
+msgstr ""
+
+#: inc/options-definition.php:922
+#@ quadro
+msgid "Linked-In Username"
+msgstr ""
+
+#: inc/options-definition.php:929
+#@ quadro
+msgid "Pinterest Profile"
+msgstr ""
+
+#: inc/options-definition.php:932
+#@ quadro
+msgid "Pinterest Username"
+msgstr ""
+
+#: inc/options-definition.php:939
+#@ quadro
+msgid "Skype Profile"
+msgstr ""
+
+#: inc/options-definition.php:942
+#@ quadro
+msgid "Skype Username"
+msgstr ""
+
+#: inc/options-definition.php:949
+#@ quadro
+msgid "Tumblr Profile"
+msgstr ""
+
+#: inc/options-definition.php:952
+#@ quadro
+msgid "Tumblr Username"
+msgstr ""
+
+#: inc/options-definition.php:959
+#@ quadro
+msgid "Twitter Profile"
+msgstr ""
+
+#: inc/options-definition.php:962
+#@ quadro
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/options-definition.php:969
+#@ quadro
+msgid "Vimeo Profile"
+msgstr ""
+
+#: inc/options-definition.php:972
+#@ quadro
+msgid "Vimeo Username"
+msgstr ""
+
+#: inc/options-definition.php:979
+#@ quadro
+msgid "YouTube Profile"
+msgstr ""
+
+#: inc/options-definition.php:982
+#@ quadro
+msgid "YouTube Username"
+msgstr ""
+
+#: inc/options-definition.php:995
+#: inc/options-definition.php:1024
+#@ quadro
+msgid "Brand"
+msgstr ""
+
+#: inc/options-definition.php:999
+#: inc/options-definition.php:1028
+#@ quadro
+msgid "Custom"
+msgstr ""
+
+#: inc/options-definition.php:1002
+#: inc/options-definition.php:1031
+#@ quadro
+msgid "Chose whether to use the original colors for each network or a custom one for all of them."
+msgstr ""
+
+#: inc/options-definition.php:1009
+#: inc/options-definition.php:1038
+#@ quadro
+msgid "Color Picker"
+msgstr ""
+
+#: inc/options-definition.php:1048
+#@ quadro
+msgid "Link Target"
+msgstr ""
+
+#: inc/options-definition.php:1053
+#@ quadro
+msgid "Same tab (\"_self\")"
+msgstr ""
+
+#: inc/options-definition.php:1057
+#@ quadro
+msgid "New tab (\"_blank\")"
+msgstr ""
+
+#: inc/options-definition.php:1060
+#@ quadro
+msgid "Chose whether to open the profile links in the same tab or in a new one."
+msgstr ""
+
+#: inc/options-definition.php:1086
+#@ quadro
+msgid "General"
+msgstr ""
+
+#: inc/options-definition.php:1090
+#@ quadro
+msgid "Branding"
+msgstr ""
+
+#: inc/options-definition.php:1095
+#@ quadro
+msgid "Miscelaneous"
+msgstr ""
+
+#: inc/options-definition.php:1100
+#@ quadro
+msgid "Options & Content"
+msgstr ""
+
+#: inc/options-definition.php:1105
+#@ quadro
+msgid "Theme Updates"
+msgstr ""
+
+#: inc/options-definition.php:1112
+#@ quadro
+msgid "Layout"
+msgstr ""
+
+#: inc/options-definition.php:1116
+#@ quadro
+msgid "Blog & Archives Options"
+msgstr ""
+
+#: inc/options-definition.php:1117
+#@ quadro
+msgid "Manage Blog and Archives options for Binder Pro Theme.<br /><small>(Options selected in Blog modules over your site will override these)</small>"
+msgstr ""
+
+#: inc/options-definition.php:1121
+#@ quadro
+msgid "Single Blog Posts"
+msgstr ""
+
+#: inc/options-definition.php:1126
+#@ quadro
+msgid "Header Options"
+msgstr ""
+
+#: inc/options-definition.php:1127
+#@ quadro
+msgid "Manage Header options for Binder Pro Theme."
+msgstr ""
+
+#: inc/options-definition.php:1131
+#@ quadro
+msgid "Footer Options"
+msgstr ""
+
+#: inc/options-definition.php:1132
+#@ quadro
+msgid "Manage Footer options for Binder Pro Theme."
+msgstr ""
+
+#: inc/options-definition.php:1136
+#@ quadro
+msgid "Sidebars"
+msgstr ""
+
+#: inc/options-definition.php:1137
+#@ quadro
+msgid "Add or remove Widget Areas"
+msgstr ""
+
+#: inc/options-definition.php:1143
+#@ quadro
+msgid "Design"
+msgstr ""
+
+#: inc/options-definition.php:1147
+#@ quadro
+msgid "Background"
+msgstr ""
+
+#: inc/options-definition.php:1152
+#@ quadro
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/options-definition.php:1153
+#@ quadro
+msgid "These CSS rules override all theme's CSS rules and are not deleted when you restore default settings."
+msgstr ""
+
+#: inc/options-definition.php:1159
+#@ quadro
+msgid "Typography"
+msgstr ""
+
+#: inc/options-definition.php:1163
+#@ quadro
+msgid "Font Options"
+msgstr ""
+
+#: inc/options-definition.php:1164
+#@ quadro
+msgid "Google Fonts (those which come after the separator mark) can be previewed <a href=\"https://www.google.com/fonts\" title=\"Google Fonts\">here</a>. Please check available weights for each font family before declaring them."
+msgstr ""
+
+#: inc/options-definition.php:1168
+#@ quadro
+msgid "Colors"
+msgstr ""
+
+#: inc/options-definition.php:1173
+#@ quadro
+msgid "Font Sizes"
+msgstr ""
+
+#: inc/options-definition.php:1178
+#@ quadro
+msgid "Custom Font Upload"
+msgstr ""
+
+#: inc/options-definition.php:1179
+#@ quadro
+msgid "Font packages can be downloaded from sites like <a href=\"http://www.fontsquirrel.com/\" target=\"_blank\">Font Squirrel</a> and others. While you don't explicitly need to have all four font formats, uploading as many of them as you can will improve compatibility with more web browsers."
+msgstr ""
+
+#: inc/options-definition.php:1185
+#@ quadro
+msgid "Social"
+msgstr ""
+
+#: inc/options-definition.php:1189
+#@ quadro
+msgid "Social Networks Profiles"
+msgstr ""
+
+#: inc/options-definition.php:1194
+#@ quadro
+msgid "Header Social Icons Settings"
+msgstr ""
+
+#: inc/options-definition.php:1199
+#@ quadro
+msgid "Footer Social Icons Settings"
+msgstr ""
+
+#: inc/options-definition.php:1204
+#@ quadro
+msgid "General Social Settings"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:196
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:197
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:198
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:199
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:200
+#, php-format
+#@ quadro
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:201
+#, php-format
+#@ quadro
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:202
+#, php-format
+#@ quadro
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:203
+#, php-format
+#@ quadro
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:204
+#, php-format
+#@ quadro
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:205
+#, php-format
+#@ quadro
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:206
+#, php-format
+#@ quadro
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:207
+#, php-format
+#@ quadro
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:208
+#@ quadro
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:209
+#@ quadro
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugin"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:210
+#@ quadro
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:211
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:212
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:213
+#: inc/qi-framework/class-tgm-plugin-activation.php:2005
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:215
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:216
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:564
+#: inc/qi-framework/class-tgm-plugin-activation.php:2222
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1201
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1204
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1209
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1212
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1212
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1215
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1217
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1219
+#@ artless
+msgid "Not Updated"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1221
+#@ artless
+msgid "Active"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1322
+#: inc/qi-framework/class-tgm-plugin-activation.php:1452
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1344
+#: inc/qi-framework/class-tgm-plugin-activation.php:1453
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1416
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1431
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1432
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1433
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1434
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1454
+#@ tgmpa
+msgid "Update"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1564
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1673
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/qi-framework/class-tgm-plugin-activation.php:1695
+#: inc/qi-framework/class-tgm-plugin-activation.php:214
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1988
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1989
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1990
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1991
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1992
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:1993
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2004
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2118
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2119
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2119
+#: inc/qi-framework/class-tgm-plugin-activation.php:2128
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2119
+#: inc/qi-framework/class-tgm-plugin-activation.php:2128
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2120
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2121
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2125
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2126
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2127
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2128
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2129
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/qi-framework/class-tgm-plugin-activation.php:2130
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:117
+#: inc/qi-framework/options-helper.php:358
+#@ quadro
+msgid "Select color"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:126
+#: inc/qi-framework/custom-fields-functions.php:461
+#: inc/qi-framework/options-helper.php:384
+#@ quadro
+msgid "Upload file"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:134
+#@ quadro
+msgid "Open / Close"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:214
+#: inc/qi-framework/custom-fields-functions.php:265
+#@ quadro
+msgid "Add to list"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:222
+#@ quadro
+msgid "No portfolio modules yet? What about "
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:222
+#: inc/qi-framework/custom-fields-functions.php:224
+#: inc/qi-framework/custom-fields-functions.php:230
+#: inc/qi-framework/custom-fields-functions.php:236
+#@ quadro
+msgid "adding one right now?</a>"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:224
+#@ quadro
+msgid "No blog modules yet? What about "
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:230
+#@ quadro
+msgid "No modules yet? What about "
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:236
+#@ quadro
+msgid "No slides yet? What about "
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:286
+#@ quadro
+msgid "Select pattern"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:306
+#: inc/qi-framework/custom-fields-functions.php:337
+#@ quadro
+msgid "Add categories to list"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:367
+#@ quadro
+msgid "Add formats to list"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:396
+#@ quadro
+msgid "Add fields to list"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:443
+#: inc/qi-framework/options-helper.php:424
+#@ quadro
+msgid "Remove"
+msgstr ""
+
+#: inc/qi-framework/custom-fields-functions.php:491
+#@ quadro
+msgid "No fields to fill yet."
+msgstr ""
+
+#: inc/qi-framework/dashboard-helper.php:105
+#@ quadro
+msgid "Theme Shortcuts"
+msgstr ""
+
+#: inc/qi-framework/dashboard-helper.php:106
+#@ quadro
+msgid "Easily access your Theme Options, Docs or Support by selecting from this drop down menu."
+msgstr ""
+
+#: inc/qi-framework/extras.php:88
+#, php-format
+#@ quadro
+msgid "Page %s"
+msgstr ""
+
+#: inc/qi-framework/extras.php:244
+#@ quadro
+msgid "Home"
+msgstr ""
+
+#: inc/qi-framework/extras.php:280
+#@ quadro
+msgid "Page not Found"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:493
+#@ quadro
+msgid "By clicking OK you will replace some of your theme options. Are you sure?"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:494
+#@ quadro
+msgid "Set Skin"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:502
+#@ quadro
+msgid "No backups yet"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:509
+#@ quadro
+msgid "Click OK to backup your current saved options."
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:510
+#@ quadro
+msgid "Warning: All of your current saved options will be replaced with the data from your last backup! Proceed?"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:511
+#@ quadro
+msgid "Last Backup : "
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:513
+#@ quadro
+msgid "Restore Options"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:523
+#@ quadro
+msgid "Click OK to import these options. All your theme options will be replaced!"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:525
+#@ quadro
+msgid "Select All"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:526
+#@ quadro
+msgid "Import Options"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:530
+#@ quadro
+msgid "Click OK to import Dummy Content to your WordPress install. Several WP options and all your theme options will be replaced!"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:531
+#@ quadro
+msgid "Dummy Content successfully imported. Page needs to be refreshed."
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:532
+#@ quadro
+msgid "This may take a while. Please, don't refresh your browser till you get a nice message saying it went ok. ;)"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:533
+#@ quadro
+msgid "Import Dummy Content"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:537
+#@ quadro
+msgid "Check Now"
+msgstr ""
+
+#: inc/qi-framework/options-helper.php:621
+#@ quadro
+msgid "You theme was sucesfully verified."
+msgstr ""
+
+#: inc/qi-framework/options.php:44
+#: inc/qi-framework/options.php:47
+#@ quadro
+msgid "Theme Options"
+msgstr ""
+
+#: inc/qi-framework/options.php:134
+#@ quadro
+msgid "Theme settings updated successfully."
+msgstr ""
+
+#: inc/qi-framework/options.php:146
+#@ quadro
+msgid "Save Settings"
+msgstr ""
+
+#: inc/qi-framework/options.php:147
+#@ quadro
+msgid "Reset This Tab"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:34
+#: inc/qi-framework/template-tags.php:102
+#@ quadro
+msgid "Post navigation"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:38
+#@ Previous post link
+msgid "&larr;"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:39
+#@ Next post link
+msgid "&rarr;"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:44
+#@ quadro
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:48
+#@ quadro
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:70
+#@ quadro
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:74
+#@ quadro
+msgid "<span class=\"meta-nav\"> Older posts</span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:78
+#@ quadro
+msgid "<span class=\"meta-nav\">Newer posts </span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:111
+#, php-format
+#@ quadro
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\"><strong>Previous:</strong> %title</span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:112
+#, php-format
+#@ quadro
+msgctxt "Next post link"
+msgid "<span class=\"meta-nav\"><strong>Next:</strong>%title </span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:134
+#: inc/qi-framework/template-tags.php:407
+#@ quadro
+msgid "Pingback:"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:144
+#, php-format
+#@ quadro
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:150
+#: inc/qi-framework/template-tags.php:423
+#, php-format
+#@ quadro
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:163
+#: inc/qi-framework/template-tags.php:436
+#@ quadro
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:244
+#: module-quoteposts.php:75
+#, php-format
+#@ quadro
+msgid "<span class=\"posted-on\">%1$s</span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:260
+#, php-format
+#@ quadro
+msgid "<span class=\"byline\">by %1$s</span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:263
+#: inc/qi-framework/template-tags.php:289
+#, php-format
+#@ quadro
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:282
+#: inc/theme-functions.php:175
+#: inc/theme-functions.php:179
+#: module-authors.php:71
+#: module-authors.php:75
+#@ quadro
+msgid "Posts by "
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:286
+#, php-format
+#@ quadro
+msgid "<span>by %1$s</span>"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:340
+#, php-format
+#@ quadro
+msgid "Tagged: %2$s."
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:345
+#, php-format
+#@ quadro
+msgid "This entry was posted in %1$s. Tagged: %2$s."
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:347
+#, php-format
+#@ quadro
+msgid "This entry was posted in %1$s."
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:363
+#@ quadro
+msgid " "
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:378
+#, php-format
+#@ quadro
+msgid "Tagged: %1$s"
+msgstr ""
+
+#: inc/qi-framework/template-tags.php:417
+#, php-format
+#@ quadro
+msgid "%s"
+msgstr ""
+
+#: inc/qi-framework/update.php:72
+#@ quadro
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: inc/qi-framework/update.php:77
+#@ quadro
+msgid "An unknown error occurred"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:134
+#: inc/qi-framework/wordpress-importer.php:143
+#: inc/qi-framework/wordpress-importer.php:194
+#: inc/qi-framework/wordpress-importer.php:198
+#: inc/qi-framework/wordpress-importer.php:207
+#@ wordpress-importer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:135
+#@ wordpress-importer
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:178
+#@ wordpress-importer
+msgid "All done."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:178
+#@ wordpress-importer
+msgid "Have fun!"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:179
+#@ wordpress-importer
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:199
+#, php-format
+#@ wordpress-importer
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:215
+#, php-format
+#@ wordpress-importer
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:240
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:266
+#@ wordpress-importer
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:267
+#@ wordpress-importer
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:269
+#, php-format
+#@ wordpress-importer
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:279
+#@ wordpress-importer
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:282
+#@ wordpress-importer
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:286
+#@ wordpress-importer
+msgid "Submit"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:299
+#@ wordpress-importer
+msgid "Import author:"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:310
+#@ wordpress-importer
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:313
+#@ wordpress-importer
+msgid "as a new user:"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:321
+#@ wordpress-importer
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:323
+#@ wordpress-importer
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:324
+#@ wordpress-importer
+msgid "- Select -"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:374
+#, php-format
+#@ wordpress-importer
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:425
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:465
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:511
+#: inc/qi-framework/wordpress-importer.php:652
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:537
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:559
+#, php-format
+#@ wordpress-importer
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:618
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:783
+#@ wordpress-importer
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:790
+#, php-format
+#@ wordpress-importer
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:853
+#@ wordpress-importer
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:866
+#@ wordpress-importer
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:910
+#@ wordpress-importer
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:916
+#, php-format
+#@ wordpress-importer
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:923
+#@ wordpress-importer
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:928
+#@ wordpress-importer
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:934
+#, php-format
+#@ wordpress-importer
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:1033
+#@ wordpress-importer
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:1040
+#, php-format
+#@ wordpress-importer
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:1055
+#@ wordpress-importer
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:1056
+#@ wordpress-importer
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/qi-framework/wordpress-importer.php:1130
+#@ wordpress-importer
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: inc/quadro-widgets.php:21
+#@ recents
+msgid "Quadro Recent Posts with Thumbnails."
+msgstr ""
+
+#: inc/quadro-widgets.php:27
+#@ quadro
+msgid "Quadro Recent Posts"
+msgstr ""
+
+#: inc/quadro-widgets.php:91
+#: inc/quadro-widgets.php:184
+#: inc/quadro-widgets.php:263
+#: inc/quadro-widgets.php:341
+#@ quadro
+msgid "Title:"
+msgstr ""
+
+#: inc/quadro-widgets.php:97
+#@ quadro
+msgid "Post Quantity:"
+msgstr ""
+
+#: inc/quadro-widgets.php:131
+#@ quadro
+msgid "Quadro Image Widget."
+msgstr ""
+
+#: inc/quadro-widgets.php:137
+#@ quadro
+msgid "Quadro Image Widget"
+msgstr ""
+
+#: inc/quadro-widgets.php:194
+#@ quadro
+msgid "Upload Image"
+msgstr ""
+
+#: inc/quadro-widgets.php:215
+#@ quadro
+msgid "Quadro Video Widget."
+msgstr ""
+
+#: inc/quadro-widgets.php:221
+#@ quadro
+msgid "Quadro Video Widget"
+msgstr ""
+
+#: inc/quadro-widgets.php:269
+#@ quadro
+msgid "Video Embed Url:"
+msgstr ""
+
+#: inc/quadro-widgets.php:286
+#@ quadro
+msgid "Quadro Google Map Widget."
+msgstr ""
+
+#: inc/quadro-widgets.php:292
+#@ quadro
+msgid "Quadro Google Map Widget"
+msgstr ""
+
+#: inc/quadro-widgets.php:315
+#@ quadro
+msgid "Please enable the Google Maps script under Theme Options &raquo; Homepage."
+msgstr ""
+
+#: inc/quadro-widgets.php:346
+#@ quadro
+msgid "Google Map Address:"
+msgstr ""
+
+#: module-wrapper.php:60
+#: sidebar.php:25
+#@ quadro
+msgid "Would like to activate some Widgets?"
+msgstr ""
+
+#: module-wrapper.php:61
+#: sidebar.php:26
+#@ quadro
+msgid "Go to Appearance > Widgets. Just like that!"
+msgstr ""
+
+#: search.php:27
+#, php-format
+#@ quadro
+msgid "Search Results for: %s"
+msgstr ""
+

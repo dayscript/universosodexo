@@ -1,0 +1,3 @@
+[submodule "inc/qi-framework"]
+	path = inc/qi-framework
+	url = https://javiersch@bitbucket.org/quadroideasrepos/qi-framework.git

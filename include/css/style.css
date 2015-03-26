@@ -1,0 +1,135 @@
+@font-face {
+font-family:'opensansregular';
+src: url(/include/fonts/open-sans.regular.ttf);
+}
+
+@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+
+body{
+	margin:0;
+
+}
+.header div {
+	text-align: center;
+}
+.body div {
+	text-align: center;
+}
+.image-body{
+
+	width: 100%;
+}
+
+table{
+	margin: 0 auto;
+
+}
+.image-body1{
+
+	width: 430px;
+	margin-top: 10px;
+}
+
+.boton a {
+	color: #fff;
+	font-family:'opensansregular';
+	font-weight: 500;
+	font-size: 13px;
+	text-decoration: none
+}
+.boton{
+	padding: 15px;
+	width: 50%;
+	margin: 25px auto;
+}
+.boton1{
+	padding: 15px;
+	width: 50%;
+	margin: 25px auto;
+}
+div.boton{
+	background: #F00;
+	padding: 13px;
+}
+div.boton1 {
+	background: #2858A2;
+	padding: 13px;
+}
+
+.footer div{
+	text-align: center;
+
+}
+p{
+
+	color: #646464;
+	font-family:'opensansregular';
+	font-size: 11px;
+}
+.footer{
+	margin-top: 50px;
+}
+
+.table-grid-posts{
+	text-align: center;
+}
+.post-content{
+	background-color: #2858A2;
+	max-width: 200px;
+}
+
+.body div {
+	text-align: center;
+}
+
+table img{
+	width: 100%;
+}
+td{
+	padding: 0px!important;
+}
+
+div.text p{
+	color:#fff;
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+  	font-size: 13px;
+	height: 70px;
+	margin: 15px;
+}
+a {text-decoration: none;}
+
+
+.color-font5{
+	background-color: #2858A2;
+}
+.color-font6{
+	background-color: #78A4EB;
+}
+.color-font7{
+	background-color: #78A4EB;
+}
+.color-font8{
+	background-color: #666666;
+	-webkit-filter: grayscale(100%);
+	}
+.color-font1{
+	background-color: #FE0000;
+}
+.color-font2{
+	background-color: #A90909;
+}
+.color-font3{
+	background-color: #A90909;
+}
+.color-font4{
+	background-color: #666666;
+	-webkit-filter: grayscale(100%);
+}
+
+.hover:hover {
+background-color: rgba(0, 0, 0, 0.1);
+z-index: 99999;
+}
+
+
