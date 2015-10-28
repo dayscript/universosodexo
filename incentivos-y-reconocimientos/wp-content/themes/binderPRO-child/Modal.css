@@ -97,7 +97,7 @@ text-align: center;
 background: url('http://www.universosodexo.com/Desarrollo/dev-control-de-gastos/wp-content/uploads/2015/02/newsletter.png') no-repeat;
 background-position: 50% 1px;
 padding-top: 42px;
-margin-top: 40px;
+margin-top: 15px;
 }
 span.boton {
 background-color: #2858A2;
@@ -112,10 +112,33 @@ font-size: 13px;
 }
 
 aside#text-2 {
-margin: 50px auto;
-width: 230px;
+margin: 25px auto;
+width: 230px
+margin-top:0;
 }
 
 #sthoverbuttons .sthoverbuttons-label {
 margin: 0px 0 0 1px!important;
+}
+.contacto{
+margin-top: 30px;;
+}
+.contacto a {
+    background-color: #2858A2;
+    padding: 4px 30px 4px 30px;
+    color: #fff;
+    font-family: 'Open Sans';
+    font-weight: 500;
+    font-size: 13px;
+    font-style: initial;
+}
+.text-news{
+ margin-top: 18px;
+}
+#text-2 .textwidget{
+    width: 65%;
+    margin: 0 auto;
+}
+.textwidget-1{
+font-size:12px;
 }

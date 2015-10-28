@@ -11,7 +11,7 @@ $incentivos = json_decode($data, true);
 
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="include/css/style.css"> 
+	<link rel="stylesheet" type="text/css" href="include/css/style.css">
 	<link rel="stylesheet" type="text/css" href="include/css/modal.css">
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -30,22 +30,33 @@ border-bottom-color: #F00;"><img src="include/images/icon-header.png">
 	<div><img class="image-body"src="include/images/body.png">
   	</div>
 
-  	<div>
+  	<div style="margin-top: 10px;">
   		<table>
   		<tr>
   		<td>
-  				<div>
+  				<div class="cont">
 		  		<a href="http://www.universosodexo.com/control-de-gastos">
-		  		<img class="image-body"src="include/images/gastos.png">	</a>
+		  		<img class="image-body"src="include/images/gastos.jpg">
+          <div style="  margin-bottom: 1px;">
+          <p>
+           Es tan compleja la administración de una organización, que sus dirigentes  terminan conviviendo con gastos
+           innecesarios que podrían evitar. Descubra cómo puede lograr ahorros en donde aún no había identificado pérdidas.
+          </p>
+          </div></a>
 		  		</div>
-		  		
+
 	  	</td>
   		<td>
-		  		
 
-		  		<div>
+
+		  		<div class="cont">
 		  		<a href="http://www.universosodexo.com/incentivos-y-reconocimientos">
-		  		<img class="image-body"src="include/images/incentivos.png">	</a>
+		  		<img class="image-body"src="include/images/incentivos.jpg">
+          <div style="  margin-bottom: 1px;"><p style="height: 73px;">
+           Una empresa llegará tan lejos como el compromiso de su recurso humano lo permita.
+           Entérese de  todo lo que puede lograr con un equipo debidamente motivado.
+          </p>
+          </div></a>
 		  		</div>
 
 
@@ -56,10 +67,10 @@ border-bottom-color: #F00;"><img src="include/images/icon-header.png">
 		<td>
 			<table>
 					<tr>
-				
+
 
 					<?php for($i=0;$i<=3;$i++){ ?>
-				   <td><div> 
+				   <td><div>
 
 							<div class="post-content left-float" style="position:relative" >
 									<div class="hover">
@@ -71,18 +82,18 @@ border-bottom-color: #F00;"><img src="include/images/icon-header.png">
 				  			</div>
 				  	<?php if($i == 0 || $i == 2 ) {?> </div></td> <?php } ?>
 					<?php if($i == 1 || $i == 3 ) {?> </div></td></tr> <?php } ?>
-				  
+
 					<?php }?>
-				   
+
 			</table>
 		</td>
-		
+
 		<td>
 			<table>
 
 				<tr>
 				   	   <?php for($i=0;$i<=3;$i++){ ?>
-				   <td><div> 
+				   <td><div>
 
 								<div class="post-content left-float" >
 									<div class="hover">
@@ -94,24 +105,24 @@ border-bottom-color: #F00;"><img src="include/images/icon-header.png">
 				  			</div>
 				  	<?php if($i == 0 || $i == 2 ) {?> </div></td> <?php } ?>
 					<?php if($i == 1 || $i == 3 ) {?> </div></td></tr> <?php } ?>
-				  
+
 					<?php }?>
 
 
 			</table>
 
 		</td>
-		</tr>  		
-			
-			
-	  	
-		<tr>
-			<td class="boton"><div class="boton"><a href="http://www.universosodexo.com/control-de-gastos/#modal1">SUSCRÍBASE A NUESTRO BLOG</a></div></td>
-			<td class="boton"><div class="boton1"><a href="http://www.universosodexo.com/incentivos-y-reconocimientos/#modal1">SUSCRÍBASE A NUESTRO BLOG</a></div></td>
-			
 		</tr>
-  		</table>	
-  	</div>	
+
+
+
+		<tr>
+			<td class="boton"><div class="boton"><a href="http://sodexobeneficios-3.hs-sites.com/registro-blog">SUSCRÍBASE A NUESTRO BLOG</a></div></td>
+			<td class="boton"><div class="boton1"><a href="http://sodexobeneficios-3.hs-sites.com/registro-blog">SUSCRÍBASE A NUESTRO BLOG</a></div></td>
+
+		</tr>
+  		</table>
+  	</div>
 
 <div id="modal1" class="modalmask" tabindex="-1">
 	<div class="wpcf7" id="wpcf7-f2324-o1" lang="es-ES" dir="ltr">
@@ -126,9 +137,9 @@ border-bottom-color: #F00;"><img src="include/images/icon-header.png">
 		<span class="wpcf7-form-control-wrap acceptance-246"><input type="checkbox" name="acceptance-246" value="1" class="wpcf7-form-control wpcf7-acceptance" aria-invalid="false"></span></p>
 		<p>Si esta de acuerdo con esto acepte los términos y condiciones...</p>
 		<p>
-		<input type="hidden" value="control" id="control">	
+		<input type="hidden" value="control" id="control">
 		<input type="button" href="javascript:;" onclick="realizaProceso($('#name').val(),$('#email').val());return false;" value="Enviar"><img class="ajax-loader" src="http://www.universosodexo.com/Desarrollo/dev-control-de-gastos/wp-content/plugins/contact-form-7/images/ajax-loader.gif" alt="Enviando..." style="visibility: hidden;"></p>
-		
+
 		<div id="resultado">
 		</div>
 	</div>
@@ -148,9 +159,9 @@ border-bottom-color: #F00;"><img src="include/images/icon-header.png">
 		<span class="wpcf7-form-control-wrap acceptance-246"><input type="checkbox" name="acceptance-246" value="1" class="wpcf7-form-control wpcf7-acceptance" aria-invalid="false"></span></p>
 		<p>Si esta de acuerdo con esto acepte los términos y condiciones...</p>
 		<p>
-		<input type="hidden" value="incentivos" id="incentivos">	
+		<input type="hidden" value="incentivos" id="incentivos">
 		<input type="button" href="javascript:;" onclick="realizaProceso1($('#name1').val(),$('#email1').val());return false;" value="Enviar"><img class="ajax-loader" src="http://www.universosodexo.com/Desarrollo/dev-control-de-gastos/wp-content/plugins/contact-form-7/images/ajax-loader.gif" alt="Enviando..." style="visibility: hidden;"></p>
-		
+
 		<div id="resultado1">
 		</div>
 	</div>
@@ -161,7 +172,7 @@ border-bottom-color: #F00;"><img src="include/images/icon-header.png">
 
 <section  class="footer">
 
-	<div > 
+	<div >
 		<p >© by SODEXO, Inc All rigths reserved.<br> Sodexo, Líder mundial en Soluciones de Calidad de Vida Diaria</p>
 	</div>
 

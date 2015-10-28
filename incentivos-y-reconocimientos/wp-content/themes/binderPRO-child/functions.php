@@ -14,3 +14,11 @@
 
 // Happy editing...
 
+  wp_enqueue_script('jquery');
+
+
+function add_javascript_link_image_blog(){
+
+  wp_enqueue_script( 'javascript', '/wp-content/themes/binderPRO-child/js/javascript.js' );
+}
+add_action( 'wp_enqueue_scripts', 'add_javascript_link_image_blog' );
